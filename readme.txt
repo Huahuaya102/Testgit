@@ -6,3 +6,4 @@ git diff --------查看文件更改的内容
 git log--------显示从最近到最远的显示日志
 git remote add origin https://github.com/979476617/Testgit.git   
 git push -u origin master 
+11111111111111111111111
